@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/677b9361-696b-426b-a712-976620de9736/AppServices/subscriptions/677b9361-696b-426b-a712-976620de9736/resourceGroups/emojipedia/providers/Microsoft.Web/sites/githubactions-site",
+    "appService.deploySubpath": "."
+}
